@@ -6,6 +6,8 @@
 
 This project analyzes **3,900 customer transactions** to uncover insights into **spending behavior, customer loyalty, product performance, and subscription impact**.
 The goal is to demonstrate how raw transactional data can be transformed into **actionable business insights** using a full analytics stack.
+<img width="1172" height="658" alt="image" src="https://github.com/user-attachments/assets/eb42a3a8-0aaa-42af-bd27-3d95da54c035" />
+
 
 ---
 
@@ -106,7 +108,6 @@ An interactive dashboard was built to visualize:
 
 ---
 
-## 📁 Repository Structure
 
 ```bash
 ├── data/
